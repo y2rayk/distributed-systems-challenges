@@ -1,7 +1,6 @@
 # distributed-systems-challenges
 a project to practice distributed system challenges
 
-
 Some goals 
 1. CAP, PACELC, and Real-World Tradeoffs
 Not theory — how each constraint shows up in production.
@@ -74,6 +73,3 @@ Chaos engineering, partition testing, fault injection.
 
 24. Prod-First Mentality
 Knowing how your system behaves — not just how it should work.
-
-25. Organizational Influence
-Design docs, cross-team alignment, deep-dive reviews — actual staff-level work.
